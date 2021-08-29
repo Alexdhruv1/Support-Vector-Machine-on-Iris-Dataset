@@ -1,6 +1,6 @@
 # Support-Vector-Machine-on-Iris-Dataset
 
-### BUILD AN SVM CLASSIFIER FROM SCRATCH 
+### BUILDING AN SVM CLASSIFIER FROM SCRATCH 
 Support Vector Machine is a type of supervised learning algorithm which is extremely
 
 useful when we are dealing with datasets having more than 2 features, i.e., 3 or more-
